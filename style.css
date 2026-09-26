@@ -1,0 +1,79 @@
+h1{
+color:black;
+text-align:center;
+font-size: 40px;
+
+}
+
+
+body{
+
+background-color:#F2F5F3;
+margin:0;
+}
+
+img{
+
+width:70%;
+}
+
+p{
+   text-align: center;
+   color: #785f7d;
+   font-family:Arial;
+   font-size: 24px;
+   padding-bottom: 2px;
+}
+
+footer{
+
+background-color: #911a1e;
+color: white;
+text-align: center;
+padding: 1px;
+width: 100%;
+
+}
+
+
+footer p{
+  color: white;
+}
+
+nav{
+
+background-color: #9c060b;
+padding: 5px;
+text-align:center;
+
+}
+
+nav a{
+color: white;
+text-decoration:none;
+padding: 35px 70px;
+display: inline-block;
+}
+
+
+nav a:hover{
+
+background-color: #BF2C2C;
+border-radius: 40px;
+}
+
+#Orn img {
+
+width: 300px;
+height: 300px;
+float:right;
+}
+
+
+#side_by_side img {
+
+width:600px;
+height:600px;
+gap:20px;
+
+ }
